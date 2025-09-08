@@ -27,7 +27,7 @@ pipeline {
             echo "PR validated successfully!"
         }
         failure {
-            echo "PR validation failed!"
+            echo "PR validation failed successfully!"
         }
     }
 }

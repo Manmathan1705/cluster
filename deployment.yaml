@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: mywebapp
-        image: 1nfosecsingh/mywebapp:v1.2
+        image: manmathan/weather:v20250814154451
         ports:
         - containerPort: 80
